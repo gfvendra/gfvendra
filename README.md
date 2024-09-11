@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gustavo Vendramini 👋
 
 - 👀 Trabalhando com Tecnologia da Informação
-- 🌱 Estudando Ciencia dos Dados
+- 📕 Sempre me atualizando
 
   <div align="center">
     <a href="http://beacons.ai/gfvendra">
