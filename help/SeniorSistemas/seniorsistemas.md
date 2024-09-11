@@ -10,3 +10,4 @@
  Sistemas | Descrição|
 | --- | --- |
 | Alterar Endereço de E-mail para Alertas de Alarmes do REP | [Conteúdo](https://github.com/gfvendra/gfvendra/blob/main/help/SeniorSistemas/1.md) |
+| Alterar o preço médio do produto| [Conteúdo](https://github.com/gfvendra/gfvendra/blob/main/help/SeniorSistemas/2.md) |
