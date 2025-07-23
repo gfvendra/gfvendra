@@ -1,8 +1,9 @@
-### Olá, eu sou o Gustavo Vendramini 👋
+# 👩🏻‍💻 Gustavo Vendramini
 
-- 👀 Sou Analista de Infraestrutura
-- 📕 Sempre me atualizando com as novidades da tecnologia
-- 🤓 Me considero um Geek
+**`Analista de Infraestrutura com foco em Cloud e DevOps`**
+
+Me chamo Gustavo Vendramini e sou de Sertãozinho/SP. Concluí minha graduação em Gestão da Tecnologia da Informação. Atualmente, estou cursando na The Cloud Boot Camp que é sobre Multicloud, DevOps e IA.
+Sou apaixonada por tecnologia.
 
 ##
 
